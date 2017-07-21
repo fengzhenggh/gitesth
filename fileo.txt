@@ -1,2 +1,3 @@
 one input
 two mooo
+three mooo
